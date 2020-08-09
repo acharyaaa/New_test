@@ -1,2 +1,2 @@
-teh first line in second line in file2.txt
+the first line in file2.txt
 
