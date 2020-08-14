@@ -1,4 +1,0 @@
-first line in file6.txt
-second 
-third
-
